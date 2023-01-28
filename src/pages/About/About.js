@@ -64,13 +64,13 @@ const About= () => {
             <div id="forthParag">
                 <div id="scope">
                             <h3>Scope of Work</h3>
-                                <p>Triple m Construction Company providing all construction works and renewable power service and technology. The company undertakes all maintenance duties for all civil and electrical projects.</p> 
+                                <p style={{textAlign: "center"}}>Triple m Construction Company providing all construction works and renewable power service and technology. The company undertakes all maintenance duties for all civil and electrical projects.</p> 
                 </div>
                 <hr></hr>
                 <div id="financial">
                         <h3>Financial Considerations</h3>
                         
-                        <p>The company expects to reach the desired profits in the first year and does not anticipate serious cash flow problems. We believe that the average profitability per month for the first 3 years will be sufficient. Our goals to make profits by  providing effective service.</p>
+                        <p style={{textAlign: "center"}}>The company expects to reach the desired profits in the first year and does not anticipate serious cash flow problems. We believe that the average profitability per month for the first 3 years will be sufficient. Our goals to make profits by  providing effective service.</p>
                 </div>
             </div>
             <hr></hr>
